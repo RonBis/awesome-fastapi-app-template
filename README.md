@@ -1,4 +1,4 @@
-## iSPAT Backend
+## Backend
 
 ### How to run the server:
 1. Run prestart command
